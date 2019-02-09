@@ -1,0 +1,36 @@
+     table.renkli 
+	{border-collapse:collapse;
+	 border-style:dotted;
+     border-width:3px;
+     border-color:#FFFFFF; 
+     padding: 10px;
+	 background-color:#00FF00;
+	 }
+
+
+	td.a {
+            border-style:dotted;
+            border-width:3px;
+            border-color:#000000; 
+            padding: 10px;
+         }
+     td.yesil {
+            border-style:solid;
+            border-width:3px;
+            border-color:#00FF00;
+            padding:10px;
+         }
+	 td.mavi {
+            border-style:solid;
+            border-width:3px;
+            border-color:#0000FF;
+            padding:10px;
+
+         }
+	tr.kirmizi{
+            border-style:solid;
+            border-width:3px;
+            border-color:#0000FF;
+            padding:10px;
+			background-color:#FF0000;
+         }
